@@ -18,7 +18,3 @@ Borys Hlukhinskyi is a software and game developer specializing in C#.<br>Primar
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tkotmat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=tkotmat&icon=6&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
