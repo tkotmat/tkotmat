@@ -1,4 +1,5 @@
 # 💫 About Me:
+
   🔧 Junior Full Stack / Backend Developer | ASP.NET Core | C# | SQL 
   🎓 Student at Odessa Technical Vocational College (ONTU)
   📍 Open to Back-End / Full-Stack Roles
