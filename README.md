@@ -13,6 +13,12 @@ Borys Hlukhinskyi is a software and game developer specializing in C#.<br>Primar
   <a href="https://www.instagram.com/tkotmat/?next=%2F" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="52" height="40" alt="instagram logo" />
   </a>
+  <a href="boris.gluchinskiy@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+  <a href="https://www.instagram.com/tkotmat/?next=%2F" target="_blank">
+    <img src="https://images.seeklogo.com/logo-png/43/1/proton-mail-logo-png_seeklogo-438756.png" width="52" height="40" alt="proton logo" />
+  </a>
 </div>
 
 ###
