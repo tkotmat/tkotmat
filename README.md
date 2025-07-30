@@ -1,5 +1,14 @@
 # 💫 About Me:
-Borys Hlukhinskyi is a software and game developer specializing in C#.<br>Primarily working with Unity, also familiar with WPF and Open Server.<br>Has a strong understanding of object-oriented programming principles and algorithms.<br>Experienced with Git and actively uses version control systems in projects.
+🔧 Junior Full Stack / Backend Developer | ASP.NET Core | C# | SQL
+🎓 Student at Odessa Technical Vocational College (ONTU)
+📍 Open to Back-End / Full-Stack Roles
+
+Enthusiastic and motivated software developer with hands-on experience in building web applications using C#, ASP.NET Core, and SQL. Skilled in creating RESTful APIs, designing data structures, and ensuring smooth server-side integration.
+
+Currently pursuing a technical degree in Computer Science, I’m passionate about continuous learning, clean architecture, and modern development practices. I thrive on solving real-world problems through code and enjoy working on both individual and team projects.
+
+🚀 Always open to new challenges and collaboration opportunities.
+🛠️ Explore my portfolio and selected freelance projects: github.com/tkotmat
 
 
 <h1 align="left">Social Media</h1>
@@ -17,7 +26,7 @@ Borys Hlukhinskyi is a software and game developer specializing in C#.<br>Primar
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="52" height="40" alt="Gmail logo" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=boris.glukhinsky.mail@proton.me" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Proton_Mail_Logo.svg" width="52" height="40" alt="proton logo" />
+    <img src="https://www.svgrepo.com/show/424919/protonmail-logo-privacy-2.svg" width="52" height="40" alt="proton logo" />
   </a>
 </div>
 
