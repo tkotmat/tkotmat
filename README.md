@@ -16,8 +16,8 @@ Borys Hlukhinskyi is a software and game developer specializing in C#.<br>Primar
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=boris.gluchinskiy@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="52" height="40" alt="Gmail logo" />
   </a>
-  <a href="https://www.instagram.com/tkotmat/?next=%2F" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/43/1/proton-mail-logo-png_seeklogo-438756.png" width="52" height="40" alt="proton logo" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=boris.glukhinsky.mail@proton.me" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Proton_Mail_Logo.svg" width="52" height="40" alt="proton logo" />
   </a>
 </div>
 
