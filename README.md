@@ -1,14 +1,13 @@
 # 💫 About Me:
-🔧 Junior Full Stack / Backend Developer | ASP.NET Core | C# | SQL
-🎓 Student at Odessa Technical Vocational College (ONTU)
-📍 Open to Back-End / Full-Stack Roles
+  🔧 Junior Full Stack / Backend Developer | ASP.NET Core | C# | SQL 
+  🎓 Student at Odessa Technical Vocational College (ONTU)
+  📍 Open to Back-End / Full-Stack Roles
 
-Enthusiastic and motivated software developer with hands-on experience in building web applications using C#, ASP.NET Core, and SQL. Skilled in creating RESTful APIs, designing data structures, and ensuring smooth server-side integration.
+  Enthusiastic and motivated software developer with hands-on experience in building web applications using C#, ASP.NET Core, and SQL. Skilled in creating RESTful APIs, designing data structures, and ensuring smooth server-side integration.
+  Currently pursuing a technical degree in Computer Science, I’m passionate about continuous learning, clean architecture, and modern development practices. I thrive on solving real-world problems through code and enjoy working on both individual and team projects.
 
-Currently pursuing a technical degree in Computer Science, I’m passionate about continuous learning, clean architecture, and modern development practices. I thrive on solving real-world problems through code and enjoy working on both individual and team projects.
-
-🚀 Always open to new challenges and collaboration opportunities.
-🛠️ Explore my portfolio and selected freelance projects: github.com/tkotmat
+  🚀 Always open to new challenges and collaboration opportunities.
+  🛠️ Explore my portfolio and selected freelance projects: github.com/tkotmat
 
 
 <h1 align="left">Social Media</h1>
