@@ -15,6 +15,18 @@ Borys Hlukhinskyi is a software and game developer specializing in C#.<br>Primar
   </a>
 </div>
 
+###
+
+<h1 align="left">Techs</h1>
+
+###
+
+###
+
+<p align="left">Languages</p>
+
+###
+
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 # 📊 GitHub Stats:
